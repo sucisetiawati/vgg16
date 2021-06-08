@@ -7,7 +7,7 @@ The model reaches validation accuracy of ~82% in 100 Epochs and is extremely fas
 It shows how transfer learning can be used to solve classification tasks, by building sleek and prodigiously fast models.
 
 Steps:
-* Download Dataset 
+* Download Dataset </br>
     [food11-image-dataset] (https://www.kaggle.com/trolukovich/food11-image-dataset “food11-image-dataset”)
     [indonesian food] (https://www.dropbox.com/sh/88stvg9krafl7z8/AAC97IdMbHe7ksp8Cc8I08K2a?dl=0 “Food Dataset”)
 * Upload dataset in Google Drive (name folder: Gdrive)
